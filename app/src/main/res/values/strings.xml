@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TapackAuth</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in">Already have an account?</string>
+    <string name="title_home">Home</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_profile">Profile</string>
+    <string name="welcome">Welcome to dashboard</string>
+    <string name="log_out">LOG OUT</string>
+    <string-array name="location_arrays">
+        <item>Select location</item>
+        <item>Gd. Jak-Barat</item>
+        <item>Gd. Jak-Pusat</item>
+        <item>Gd. Jak-Selatan</item>
+        <item>Gd. Jak-Timur</item>
+        <item>Gd. Jak-Utara</item>
+        <item>Arrived (courrier)</item>
+    </string-array>
+</resources>
